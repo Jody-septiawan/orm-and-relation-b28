@@ -2,9 +2,8 @@
   "development": {
     "username": "root",
     "password": "root",
-    "database": "course-express",
+    "database": "course-express-b28",
     "host": "localhost",
-    "port": "8889",
     "dialect": "mysql"
   },
   "test": {
